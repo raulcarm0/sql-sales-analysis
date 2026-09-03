@@ -1,0 +1,22 @@
+# === Banco de Dados Local ===
+*.db
+*.sqlite
+*.sqlite3
+data/*.db
+
+# === Python / Ambiente Virtual ===
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env
+
+# === VS Code / IDEs ===
+.vscode/
+.idea/
+
+# === Sistema Operacional ===
+.DS_Store
+Thumbs.db
